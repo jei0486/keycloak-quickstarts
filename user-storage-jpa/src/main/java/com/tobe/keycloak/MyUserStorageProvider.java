@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.keycloak.quickstart.storage.user;
+package com.tobe.keycloak;
 
 import org.jboss.logging.Logger;
 import org.keycloak.component.ComponentModel;

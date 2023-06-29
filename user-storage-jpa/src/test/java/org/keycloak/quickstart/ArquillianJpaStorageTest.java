@@ -30,7 +30,7 @@ import org.keycloak.representations.idm.ComponentRepresentation;
 import org.keycloak.representations.idm.UserRepresentation;
 import org.keycloak.test.FluentTestsHelper;
 import org.keycloak.test.page.LoginPage;
-import org.keycloak.quickstart.storage.user.MyExampleUserStorageProviderFactory;
+import com.tobe.keycloak.MyExampleUserStorageProviderFactory;
 import org.openqa.selenium.WebDriver;
 
 import javax.ws.rs.core.Response;

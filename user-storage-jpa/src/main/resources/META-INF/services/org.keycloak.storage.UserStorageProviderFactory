@@ -1,1 +1,1 @@
-org.keycloak.quickstart.storage.user.MyExampleUserStorageProviderFactory
+com.tobe.keycloak.MyExampleUserStorageProviderFactory

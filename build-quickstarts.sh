@@ -15,6 +15,7 @@ fi
 #   cp "$f" "${f%-example.xml}.xml"
 #done
 
+# mvn clean install -DskipTests -B -Dnightly
 mvn clean install $args -DskipTests -B -Dnightly
 
 if [ -n "$PRODUCT" ] && [ "$PRODUCT" == "true" ]; then
